@@ -10,27 +10,36 @@ If you have any questions or concerns, please let me know. THX!
 ```
 
 🔭 &nbsp; **I’m currently working on**
-- 2020 Google Developers Student Club MCU-Lead
+- Founder at Bullinv.tech 
+- 2020/2023 Google Developers Student Club MCU-Lead
 - 2020 MCU-OpenSourceClub (MCUOSC) Director
 
 
 🌱&nbsp; **I’m currently learning**
 - Algorithm
-    - C++ STL
+    - C++/STL
 - Frontend Dev
-    - JS - Vue3
-    - CSS - Bootstrap5
+    - JS - Vue.js/Nuxt.js
+    - CSS - TailwindCSS/Bootstrap
 - Backend Dev
-    - Python - Django/FastAPI
+    - Python - FastAPI/Django
+- DevOps
+  - Docker/k8s
+  - Gitlab CI/CD
+  - Terraform
+- Others
+  - Kafka/Redis
+  - Airflow
+  - MongoDB/MySQL/QuestDB
 
 ⚡ &nbsp; **Interest**
 - Music 
     - Piano/Violin playing
-    - Classical music / Jpop 
+    - Classical music / Jpop \YOASOBI/
 - Coding
     - Learning everything
     - Make interesting projects
-- Anime !?
+- Anime 
 
 
 🛠️ &nbsp;  **Langues/Frameworks and Tools**
